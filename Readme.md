@@ -15,4 +15,4 @@ https://mixkit.co/free-sound-effects
 
 game design: Railande da Silva e Silva
 graphics design : Railande da Silva e Silva
-sound : Railande da Silva e Silva
+sound: Railande da Silva e Silva
